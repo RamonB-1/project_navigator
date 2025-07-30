@@ -1,0 +1,10 @@
+17  git commit -m "Project-Navigator"
+  318  git branch -M main
+  319  git remote add origin https://github.com/RamonB-1/project_navigator.git
+  320  git push -u origin main
+  321  git commit -m "londeka-z/Project_Navigator"
+  322  git commit -m "details personal projects purpose shell.sh"
+  323  pwd
+  324  ls
+  325  touch history.txt
+  326  history | tail
